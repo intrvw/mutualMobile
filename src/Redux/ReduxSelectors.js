@@ -1,0 +1,1 @@
+export const PostsSelector = (state) => state.PostReducer
